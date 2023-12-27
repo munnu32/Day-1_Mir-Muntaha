@@ -1,0 +1,40 @@
+*{
+  font-family: Chakra Petch;
+}
+.div1{
+  margin: 110px auto;
+  padding: 35px 55px;
+  width: 399px;
+  border-radius: 15px;
+  border: 1px solid lightgrey;
+  position: relative;
+}
+.see{
+  border: 1px solid lightgrey;
+  width: 100%; 
+  box-sizing: border-box;
+  padding: 6px 20px;
+  position: absolute;
+  bottom: 0px; 
+  right: 0px;
+  background-color: white;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  color: blue;
+  font-weight: 900;
+} 
+.div-image{
+display: flex;
+}
+.img1{
+  border-radius: 100px;
+  border: 0.5px solid lightgray ;
+  margin-left: 55px;
+  margin-bottom: 50px;
+}
+.img2{
+  border-radius: 100px;
+  border: 0.5px solid lightgray ;
+  margin-left: 55px;
+  margin-bottom: 50px;
+}

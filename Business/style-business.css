@@ -1,0 +1,28 @@
+*{
+  font-family: Chakra Petch;
+}
+
+
+.box{
+  margin: 110px auto;
+  padding: 155px 55px;
+  width: 450px;
+  border-radius: 15px;
+  background-color: #1BE592;
+}
+.heading{
+  font-weight: bolder;
+  font-size: 40px;
+}
+.paragraph1{
+  font-size: 15px;
+  font-weight: bold;
+}
+.share{
+  color: black;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 40px;
+  font-weight: 900;
+  font-size: 15px;
+}

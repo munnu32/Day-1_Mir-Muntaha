@@ -1,0 +1,28 @@
+*{
+  font-family: Chakra Petch;
+}
+.parent{
+  margin: 100px auto;
+  border: 2px solid lightgrey;
+  width: 558px;
+  border-radius: 20px;
+  padding: 10px 14px;
+}
+.sub{
+  color: grey;
+  font-size: 25px;
+
+}
+.moments{
+  color: grey;
+  font-size: 25px;
+}
+.btn{
+  border:1px solid lightgrey;
+  padding: 15px 20px;
+  border-radius: 5px;
+  color: blue;
+  cursor: pointer;
+  font-weight: 900;
+  font-size: 15px;
+}
