@@ -1,0 +1,12 @@
+body{
+  font-family: Chakra Petch;
+}
+
+
+.box{
+  margin: 110px auto;
+  padding: 200px 55px;
+  width: 450px;
+  border-radius: 5px;
+  background-color: #39ff14;
+}
